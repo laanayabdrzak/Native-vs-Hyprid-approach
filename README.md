@@ -1,1 +1,83 @@
-# Native-vs-Hyprid-approach
+# Native vs Hyprid approach
+
+Customer experience for mobile is more important to your business than you might think. Nobody has time for bad user experiences, your customers and employees included. 
+
+## How cordova works 
+
+![CodePath](http://www.shroyco.com/sites/default/files/coming-soon_0.jpg)
+
+## PhoneGap/ Cordova ambiguity
+
+- Phonegap is a distribution of Apache cordova
+
+- you can think of Apache cordova as the engine that powers phonegap similar to how webkit is the engine that powers Chrome & Safari
+
+## 5 questions to ask before you decide Native or Hybrid
+
+- Do you want to use native features in the mobile app ?
+
+- How quickly do you want to take it to the market ?
+
+- Do you have separate budget for developers in Android & iOS ?
+
+- How often do you need to update your mobile app ?
+
+- Do you want to have the best user experience ?
+
+## Native Advantage
+
+- **Multi-touch:** double taps, pinch-spread, and other compouned UI gestures
+- **Fast graphics API:** is big deal if you're using a lot of data and require a fast refresh 
+- **Fluid animation:** gaming highly interactive
+- **Ease of use:** UI/UX better user experience
+- **Built-in components:** camera, address book, geolocation, and other features native to the device
+- **Documentation:** Books, StackOverflow, community
+
+## Hybrid Advantage
+
+- Single code base across multiple platforms 
+- don't have to update each app in the app store to wait for approvals
+- you can use an existing web talent and don't need to bring on additional ressources
+- don't need to do any API development since it's all handled via the web
+
+## Native Desavantage
+
+## Hybrid Desavntage 
+
+## Kapsel 
+
+[Kapsel](http://scn.sap.com/docs/DOC-49592#setup) is a set of costom plugins developed by SAP underlying the cordova technology to meet the entreprise requirements like encryption storage, cache management, login, AuthProxy, etc..
+
+## ngCordova 
+
+[ngCordova](http://ngcordova.com/) is a collection of 70+ AngularJS extensions on top of the Cordova API that make it easy to build, test, and deploy Cordova mobile apps with AngularJS.
+
+## Native vs Hybrid overview
+
+In summary, we have reviewed:
+
+- Native app is a smartphone app developed specifically for a mobile operating system
+
+- Hybrid  app are at core websites packaged into a native wrapper
+
+- Native app have the best performance highest security, and best user experience
+
+- If you have less than four months to develop an app, and you want to test a limited private market on the viability of your app, then use Hybrid. If the test works, then move to native as soon as you can and show it to the world. If it doesn’t work, you’ve saved yourself time and money
+
+- If an executive pushes to do a web app for strong reasons, make sure they’re aware of the trade-offs
+
+- There are clear and distinct advantages and disadvantages for both hybrid and native approaches, and that is why this discussion is still relevant
+
+- Each approach has its pros and cons but at the end of the day a native approach will have the biggest benefits for a company’s bottom line.
+
+## Contributors
+
+[laanayabdrzak](https://github.com/laanayabdrzak)
+<a href="https://www.linkedin.com/in/laanayabdrzak">
+  <img alt="Follow me on LinkedIn"
+       src="https://raw.githubusercontent.com/florent37/DaVinci/master/mobile/src/main/res/drawable-hdpi/linkedin.png" />
+</a>
+
+## Contributions
+
+ Any contributions are welcome! :smile:
