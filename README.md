@@ -13,7 +13,7 @@ few basics. Consumers want:
 
 ## How cordova works 
 
-![CodePath](http://www.shroyco.com/sites/default/files/coming-soon_0.jpg)
+![CodePath](https://github.com/laanayabdrzak/Native-vs-Hyprid-approach/blob/master/How_Cordova_Works.png)
 
 ## PhoneGap/ Cordova ambiguity
 
