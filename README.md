@@ -39,6 +39,7 @@ few basics. Consumers want:
 - **Ease of use:** UI/UX better user experience
 - **Built-in components:** camera, address book, geolocation, and other features native to the device
 - **Documentation:** Books, StackOverflow, community
+- **Tools:** Native development provides better development environment and tooling to test and debug
 
 ## Hybrid Advantage
 
@@ -47,18 +48,14 @@ few basics. Consumers want:
 - you can use an existing web talent and don't need to bring on additional ressources
 - don't need to do any API development since it's all handled via the web
 
-## Native Desavantage
-
-## Hybrid Desavntage 
-
 ## scenarios for building apps in hybrid or native
 
-- Hybrid:
+- **Hybrid:**
   - For budgetary limitation, hybrid app may be a better choice
   - If there is a need to quickly develop the app, hybrid app may be a better choice
   - If the app is simple, does not have large animations, does not have lots of clicks and does not require lots of native user interaction, hybrid will be a better choice
 
-- Native:
+- **Native:**
   - If the requirement is to create the best user experience, native development is a better choice
   - For companies with sufficient allocated budget that are planning to build and maintain large app projects and do not want to worry about limitations for implementing new technologies, and support, native is a better choice
 
