@@ -13,7 +13,9 @@ few basics. Consumers want:
 
 ## How cordova works 
 
-![CodePath](https://github.com/laanayabdrzak/Native-vs-Hyprid-approach/blob/master/How_Cordova_Works.png)
+ <p align="center">
+    <img src="https://github.com/laanayabdrzak/Native-vs-Hyprid-approach/blob/master/How_Cordova_Works.png" alt="Screenshots" height="420" width="420"/>
+</p>
 
 ## PhoneGap/ Cordova ambiguity
 
