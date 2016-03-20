@@ -89,9 +89,7 @@ In summary, we have reviewed:
 
 - Users will not tolerate a problematic mobile app, and will abandon it after only one or two failed attempts
 
-## Contributors
-
-[laanayabdrzak](https://github.com/laanayabdrzak)
+## Author
 
 <a href="https://www.linkedin.com/in/laanayabdrzak">
   <img alt="Follow me on LinkedIn"
