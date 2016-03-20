@@ -50,7 +50,7 @@ few basics. Consumers want:
 - you can use an existing web talent and don't need to bring on additional ressources
 - don't need to do any API development since it's all handled via the web
 
-## scenarios for building apps in hybrid or native
+## Scenarios for building apps in hybrid or native
 
 - **Hybrid:**
   - For budgetary limitation, hybrid app may be a better choice
